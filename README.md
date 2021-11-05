@@ -2,7 +2,7 @@
 
 <p align = "center">
 <img src="https://img.shields.io/badge/author-luanalessa-b606bf?style=flat-square" />
-<img src="https://img.shields.io/badge/author-luanalessa-b606bf?style=flat-square" />
+<img src="https://img.shields.io/badge/author-julianaburzlaff-b606bf?style=flat-square" />
 
 <img src="https://img.shields.io/github/languages/count/luanalessa/eventin?color=b606bf&style=flat-square" />
 
