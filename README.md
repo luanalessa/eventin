@@ -1,10 +1,10 @@
 # <p align = "center"> EVENTIN </p>
 
 <p align = "center">
-<img src="https://img.shields.io/badge/author-julianaburzlaff-b606bf?style=flat-square" />
+<img src="https://img.shields.io/badge/author-luanalessa-b606bf?style=flat-square" />
 <img src="https://img.shields.io/badge/author-luanalessa-b606bf?style=flat-square" />
 
-<img src="https://img.shields.io/github/languages/count/julianaburzlaff/eventin?color=b606bf&style=flat-square" />
+<img src="https://img.shields.io/github/languages/count/luanalessa/eventin?color=b606bf&style=flat-square" />
 
  <p align = "center"> Application to managing events using QR Code validation . </br> Built with ReactJs using Axios.</p> </br>
 
@@ -29,7 +29,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Then, clone the repository with:
 
 ```
-git clone https://github.com/julianaburzlaff/eventin.git
+git clone https://github.com/luanalessa/eventin.git
 ```
 
 So, in the project directory, you can run:
